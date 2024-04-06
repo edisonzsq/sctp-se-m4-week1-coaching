@@ -97,4 +97,11 @@ Now, you have completed the feature and is ready to commit your changes and push
 
 [Docker](https://docs.docker.com/desktop/)
 
+Commands to test:
+
+```
+where docker # windows
+which docker # mac or linux
+```
+
 </details>
